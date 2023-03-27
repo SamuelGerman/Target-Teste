@@ -1,0 +1,20 @@
+Velocidade carro = 110 km/
+Velocidade caminhao = 80 km/h
+Velocidade relativa = 190 km/h, como as duas velocidades são constantes, então podemos afirmar que a velocidade entre os dois carros no encontro sera de 190 km/h
+Colocando essa velocidade na formula da velocidade em MRU:
+V = D/t
+
+Vel.Encontro = Dist.Encontro/ TempoEncontro ---> 190 = DistEncontro / TempoEncontro --- > TempoEncontro = DistanciaEncontro / 190
+
+Substituindo o novo tempo achado para calcular a distancia do carro e do caminhao independentemente temos:
+
+DistCarro = 110 x DistanciaEncontro / 190 --> DistCarro = 0,579 Dist encontro
+DistCaminhao = 80 x DistanciaEncontro / 190 --> DistCaminhao = 0,421 Dist encontro
+
+100 -57,9= 42,2 km restantes para chegar em franca (carro)
+
+100 - 42, 1 = 57, 9 km para chegar em ribeirão preto.
+
+Vemos que os dois estão na mesma distancia de ribeirão preto, porém, quando considerarmos que o caminhao demorou 10 minutos a mais em seu trajeto devido aos 5 minutos em
+cada pedágio, pode-se afirmar que o caminhao na verdade estará mais distante de ribeirão preto quando passar pelo carro. Sendo assim, o carro está mais próximo de Ribeirão
+Preto no momento do encontro.
